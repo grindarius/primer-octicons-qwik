@@ -1,0 +1,10 @@
+{
+  "version": "0.0.1",
+  "scripts": {
+    "gen": "cd generator && pnpm dev",
+    "build": "cd primer-octicons-qwik && pnpm build"
+  },
+  "keywords": ["icons", "octicons"],
+  "author": "Bhattarapong Somwong",
+  "license": "MIT"
+}
