@@ -1,0 +1,17 @@
+{
+  "name": "primer-octicons-qwik-codegen",
+  "version": "1.0.0",
+  "description": "codegen to generate octicons",
+  "type": "module",
+  "main": "src/index.mjs",
+  "scripts": {
+    "dev": "node ./src/index.mjs"
+  },
+  "keywords": [],
+  "author": "Bhattarapong Somwong",
+  "license": "MIT",
+  "dependencies": {
+    "@primer/octicons": "^19.1.0",
+    "fs-extra": "^11.1.1"
+  }
+}
